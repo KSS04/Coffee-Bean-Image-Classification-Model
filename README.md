@@ -1,6 +1,5 @@
 # Coffee-Bean-Image-Classification-Model
 Coffee Bean Image Classification Project
-Certainly! Below is a write-up based on your provided code, which you can use in the README file of your GitHub repository.
 
 ---
 
